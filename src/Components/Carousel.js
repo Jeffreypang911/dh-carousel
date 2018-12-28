@@ -5,7 +5,7 @@ class App extends Component {
       return (
     <div class="ViewContainer">
         <div class="MovieRow">
-          <h1>Popular Videos</h1>
+          <div class="MovieTitle">B E G I N N ER</div>
           <div class="MovieRow__container">
             <div class="MovieBox">
               <div class="MovieBox__info">
